@@ -6,7 +6,8 @@
     "go@latest",
     "sqlc@latest",
     "python3@latest",
-    "zig@latest"
+    "zig@latest",
+    "sqlite@latest"
   ],
   "shell": {
     "init_hook": [
