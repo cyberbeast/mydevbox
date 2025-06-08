@@ -4,7 +4,9 @@
     "git@latest",
     "gh@latest",
     "go@latest",
-    "sqlc@latest"
+    "sqlc@latest",
+    "python3@latest",
+    "zig@latest"
   ],
   "shell": {
     "init_hook": [
